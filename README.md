@@ -1,4 +1,7 @@
 # Problem Statement / Business Objective:
+
+<img width="1203" alt="photo" src="https://github.com/user-attachments/assets/8fc6ce2b-b097-4b3b-adc6-25b9397ba16e">
+
 The bank aims to understand key factors that influence customer acceptance of credit card offers. By building a predictive model, the bank seeks to:
 
 1. Improve targeted marketing by identifying customer characteristics linked to offer acceptance.
