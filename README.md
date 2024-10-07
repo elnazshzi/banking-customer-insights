@@ -41,6 +41,11 @@ In the Python part, we worked on data manipulation, analysis, and machine learni
 ## Tableau
 In the Tableau part, we focused on creating interactive dashboards and visualizations to present the insights derived from the data analysis and machine learning model. The Tableau dashboard allowed for dynamic exploration of the data and provided a visual representation of key insights and trends.
 
+--------------------------------------
+
+##Conclusion
+This project integrates SQL, Python, and Tableau to provide a comprehensive analysis of credit card offer acceptance. The insights generated will support the bank's strategic initiatives in customer acquisition and marketing efficiency, ultimately contributing to increased profitability in the credit card segment.
+
 ### Key Concepts:
 - Designing and building interactive dashboards
 - Creating various chart types (bar, line, pie, maps)
